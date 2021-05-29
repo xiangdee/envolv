@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/envolv/static/css/main.d56481dc.chunk.css",
+    "main.js": "/envolv/static/js/main.8414a78c.chunk.js",
+    "main.js.map": "/envolv/static/js/main.8414a78c.chunk.js.map",
+    "runtime-main.js": "/envolv/static/js/runtime-main.ba6246ac.js",
+    "runtime-main.js.map": "/envolv/static/js/runtime-main.ba6246ac.js.map",
+    "static/js/2.b99a3758.chunk.js": "/envolv/static/js/2.b99a3758.chunk.js",
+    "static/js/2.b99a3758.chunk.js.map": "/envolv/static/js/2.b99a3758.chunk.js.map",
+    "static/js/3.c57d20e5.chunk.js": "/envolv/static/js/3.c57d20e5.chunk.js",
+    "static/js/3.c57d20e5.chunk.js.map": "/envolv/static/js/3.c57d20e5.chunk.js.map",
+    "index.html": "/envolv/index.html",
+    "static/css/main.d56481dc.chunk.css.map": "/envolv/static/css/main.d56481dc.chunk.css.map",
+    "static/js/2.b99a3758.chunk.js.LICENSE.txt": "/envolv/static/js/2.b99a3758.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/envolv/static/media/header-banner.15234791.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba6246ac.js",
+    "static/js/2.b99a3758.chunk.js",
+    "static/css/main.d56481dc.chunk.css",
+    "static/js/main.8414a78c.chunk.js"
+  ]
+}
