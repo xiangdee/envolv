@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/envolv/static/css/main.d56481dc.chunk.css",
-    "main.js": "/envolv/static/js/main.8414a78c.chunk.js",
-    "main.js.map": "/envolv/static/js/main.8414a78c.chunk.js.map",
+    "main.js": "/envolv/static/js/main.4cbca0d9.chunk.js",
+    "main.js.map": "/envolv/static/js/main.4cbca0d9.chunk.js.map",
     "runtime-main.js": "/envolv/static/js/runtime-main.ba6246ac.js",
     "runtime-main.js.map": "/envolv/static/js/runtime-main.ba6246ac.js.map",
     "static/js/2.b99a3758.chunk.js": "/envolv/static/js/2.b99a3758.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ba6246ac.js",
     "static/js/2.b99a3758.chunk.js",
     "static/css/main.d56481dc.chunk.css",
-    "static/js/main.8414a78c.chunk.js"
+    "static/js/main.4cbca0d9.chunk.js"
   ]
 }
